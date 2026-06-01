@@ -28,3 +28,4 @@ print("Area of circle: {:.2f}".format(C.area()))
 <img width="1362" height="804" alt="image" src="https://github.com/user-attachments/assets/c78e47ae-9611-4319-9062-aaa5ec856a06" />
 
 ## Result
+Thus the python  program that calculates the **area of a circle** based on the radius provided by the user. This program uses a class named `Circle` and a method `area` to perform the calculation is completed successfully.
